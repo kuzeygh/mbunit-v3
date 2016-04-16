@@ -74,6 +74,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Gallio.Host.targets" />
     <None Include="Standard.manifest" />
     <None Include="Gallio.Host.exe.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
