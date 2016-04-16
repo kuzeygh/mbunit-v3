@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gallio", "Gallio", "{C5B6C601-8C62-46DB-B87D-BDBDEA30E0AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MbUnit", "MbUnit", "{2E3CD174-0E74-42A4-8367-B6C40B005D33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallio", "Gallio\Gallio.csproj", "{6CAB7735-05DA-480D-9A04-50615B00F886}"
 EndProject
@@ -16,8 +20,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallio.UI.Tests", "Gallio.UI.Tests\Gallio.UI.Tests.csproj", "{DC4DBE38-0ED0-4CD8-A722-9F2C109FE173}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallio35", "Gallio35\Gallio35.csproj", "{BC28AB7E-5B71-4AEE-BF2D-54ACF7299889}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MbUnit", "MbUnit", "{2E3CD174-0E74-42A4-8367-B6C40B005D33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MbUnit", "..\MbUnit\MbUnit\MbUnit.csproj", "{A9B54755-56B7-48C1-8941-BB69FCEFFF32}"
 EndProject
