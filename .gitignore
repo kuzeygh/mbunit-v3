@@ -1,6 +1,7 @@
+build/
 bin/
 obj/
 .vs/
 *.user
 *.suo
-build/
+*.wxi
